@@ -1,0 +1,22 @@
+{
+  "name": "feu-app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "dingdongzhao <ddzyan@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/feu-app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/feu-app.test.js"
+  },
+  "dependencies": {
+    "feu-tools": "^0.0.0"
+  }
+}
